@@ -5,3 +5,7 @@ body {
     background-color: peru;
     color: blue;
 }
+p {
+    font-size: 30px;
+    text-shadow: 2px 2px 7px blueviolet;
+}
